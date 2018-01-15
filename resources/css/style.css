@@ -20,3 +20,6 @@ p {
   font-size: 20
   font-family: verdana;
 }
+.footer {
+  text-align: right;
+}
